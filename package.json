@@ -18,20 +18,20 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/WillZek/CrowBot-ST",
+"homepage": "https://github.com/Emanuel1273/SonicBot-MF",
 "author": {
-"name": "WillZek"
+"name": "Withe444"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/WillZek/CrowBot-ST.git"
+"url": "git+https://github.com/Emanuel1273/SonicBot-MF.git"
 },
 "bugs": {
-"url": "https://github.com/WillZek/CrowBot-ST/issues"
+"url": "https://github.com/Emanuel1273/SonicBot-MF/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "github:ds6/bails",
+"@whiskeysockets/baileys": "^6.7.18",
 "google-libphonenumber": "latest",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
